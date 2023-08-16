@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-mi-react",
+  "name": "@massiveinfinity/eslint-config-react",
   "version": "0.1.1",
   "description": "",
   "main": "index.js",
